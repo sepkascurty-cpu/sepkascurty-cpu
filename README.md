@@ -145,14 +145,6 @@ Alat scanning port yang lebih komprehensif untuk mendeteksi celah keamanan pada 
 
 ---
 
----
-
-## Interactive Activity Center
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sepkascurty-cpu/sepkascurty-cpu/output/pacman-contribution-graph.svg" alt="Pacman">
-</p>
-
 ### Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/sepkascurty-cpu/sepkascurty-cpu/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%">
