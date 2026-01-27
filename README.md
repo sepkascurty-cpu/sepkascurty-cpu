@@ -150,9 +150,8 @@ Alat scanning port yang lebih komprehensif untuk mendeteksi celah keamanan pada 
 ## Interactive Activity Center
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sepkascurty-cpu&theme=pacman&area=true&hide_border=true" width="100%">
+  <img src="https://raw.githubusercontent.com/sepkascurty-cpu/sepkascurty-cpu/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%">
 </p>
-
 ---
 
 ### Contribution Snake
