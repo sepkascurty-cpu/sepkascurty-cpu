@@ -157,10 +157,6 @@ Alat scanning port yang lebih komprehensif untuk mendeteksi celah keamanan pada 
 
 ---
 
-<p align="center">
-  <i>Automated updates via GitHub Actions</i>
-</p>
-
 ###  Mari Terhubung:
 - **GitHub:** [sepkascurty-cpu](https://github.com/sepkascurty-cpu)
 
