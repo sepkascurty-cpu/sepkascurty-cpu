@@ -149,17 +149,9 @@ Alat scanning port yang lebih komprehensif untuk mendeteksi celah keamanan pada 
 
 ## Interactive Activity Center
 
----
-
-## Play Pac-Man!
+###  My Pac-man Contribution Map
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-classic-games">
-    <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-classic-games/main/games/pacman/preview.gif" width="600" alt="Pacman Game">
-  </a>
-</p>
-
-<p align="center">
-  <b>[ <a href="https://pacman.live/play.html">KLIK DI SINI UNTUK MAIN SEKARANG</a> ]</b>
+  <img src="https://github.com/sepkascurty-cpu/sepkascurty-cpu/blob/master/github-metrics.svg" width="100%" alt="Pacman Metrics">
 </p>
 
 ---
