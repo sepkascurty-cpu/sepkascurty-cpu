@@ -1,0 +1,23 @@
+name: Generate Pacman
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Jalan otomatis setiap tengah malam
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Pacman Game
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: sepkascurty-cpu
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year # Durasi 6 bulan terakhir
