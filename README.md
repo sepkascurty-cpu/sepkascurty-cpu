@@ -147,17 +147,28 @@ Alat scanning port yang lebih komprehensif untuk mendeteksi celah keamanan pada 
 
 ---
 
-## 🕹️ Interactive Activity Center
+## Interactive Activity Center
+
+---
+
+## Play Pac-Man!
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-classic-games">
+    <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-classic-games/main/games/pacman/preview.gif" width="600" alt="Pacman Game">
+  </a>
+</p>
+
+<p align="center">
+  <b>[ <a href="https://pacman.live/play.html">KLIK DI SINI UNTUK MAIN SEKARANG</a> ]</b>
+</p>
+
+---
 
 ### Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/sepkascurty-cpu/sepkascurty-cpu/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%">
 </p>
 
-###  Pac-Man Contribution Radar
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sepkascurty-cpu&theme=pacman&area=true&hide_border=true" width="100%" alt="Pacman Graph" />
-</p>
 
 <p align="center">
   <i>"Don't just code, make it an art."</i>
