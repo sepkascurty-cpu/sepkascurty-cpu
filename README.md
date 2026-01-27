@@ -149,9 +149,8 @@ Alat scanning port yang lebih komprehensif untuk mendeteksi celah keamanan pada 
 
 ## Interactive Activity Center
 
-### 🕹️ Pac-man Contribution Map
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sepkascurty-cpu&theme=pacman&area=true&hide_border=true&bg_color=000000&color=f0ad4e&line=f0ad4e&point=f0ad4e" width="100%" alt="Pacman Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sepkascurty-cpu&theme=pacman&area=true&hide_border=true" width="100%">
 </p>
 
 ---
