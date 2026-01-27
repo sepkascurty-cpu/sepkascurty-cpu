@@ -2,8 +2,8 @@ name: Generate Pacman
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Jalan otomatis setiap tengah malam
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # Update setiap 12 jam
+  workflow_dispatch: # Bisa dijalankan manual
   push:
     branches:
       - main
@@ -12,7 +12,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Pacman Game
+      - name: Generate Pacman Animation
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -20,4 +20,7 @@ jobs:
           template: classic
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year # Durasi 6 bulan terakhir
+          plugin_isocalendar_duration: half-year
+          # Config khusus visual pacman
+          config_timezone: Asia/Jakarta
+          config_order: isocalendar
