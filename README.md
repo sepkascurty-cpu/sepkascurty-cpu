@@ -7,7 +7,7 @@
 
 ---
 
-### Siapa Aku? 
+### Siapa Saya? 
 
 Saya adalah pelajar dan praktisi di bidang Keamanan Siber dengan minat kuat pada analisis sistem, eksplorasi kerentanan, dan pemahaman cara kerja ancaman digital. Ketertarikan saya terhadap cybersecurity tumbuh dari rasa ingin tahu yang tinggi tentang bagaimana sebuah sistem dapat diserang, dipertahankan, dan diaudit secara teknis.
 Saya terbiasa bekerja di lingkungan Linux, mempelajari dasar hingga menengah jaringan komputer, serta mengembangkan alat bantu keamanan berbasis Python untuk kebutuhan analisis, otomasi, dan OSINT.
