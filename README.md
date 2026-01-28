@@ -16,7 +16,8 @@ Fokus utama saya bukan sekadar menggunakan tools, tetapi membangun pola pikir se
 - Memahami pola serangan dan kelemahan sistem
 - Membangun tools sederhana namun fungsional
 - Melakukan analisis teknis dan dokumentasi secara terstruktur
- Repositori ini merupakan representasi dari perjalanan belajar dan eksplorasi saya di bidang keamanan siber, sekaligus komitmen saya untuk terus berkembang secara teknis dan profesional.
+
+###  Repositori ini merupakan representasi dari perjalanan belajar dan eksplorasi saya di bidang keamanan siber, sekaligus komitmen saya untuk terus berkembang secara teknis dan profesional.
 
 ---
 
