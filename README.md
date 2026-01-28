@@ -2,7 +2,7 @@
 ###  Cybersecurity Enthusiast | Python Developer | Linux Learner
 
 <p align="center">
-  <img src="github-header-banner.png" alt="Github Header Banner" width="100%">
+  <img src="github-header-banner1.png" alt="Github Header Banner" width="100%">
 </p>
 
 ---
