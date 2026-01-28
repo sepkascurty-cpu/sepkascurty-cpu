@@ -7,6 +7,18 @@
 
 ---
 
+### Siapa Aku? 
+
+Saya adalah pelajar dan praktisi pemula di bidang Keamanan Siber dengan minat kuat pada analisis sistem, eksplorasi kerentanan, dan pemahaman cara kerja ancaman digital. Ketertarikan saya terhadap cybersecurity berkembang dari rasa ingin tahu yang tinggi terhadap bagaimana sebuah sistem dapat diserang, dipertahankan, dan diaudit secara teknis.
+Saya terbiasa bekerja di lingkungan Linux, mempelajari jaringan komputer, serta mengembangkan alat bantu keamanan menggunakan Python untuk kebutuhan analisis, otomasi, dan OSINT. Fokus utama saya adalah membangun pemahaman yang kuat dari sisi teknis, bukan sekadar penggunaan alat, tetapi juga cara berpikir seorang security analyst: analitis, sistematis, dan berbasis risiko.
+Melalui berbagai proyek mandiri, saya melatih diri untuk:
+memahami pola serangan dan kelemahan sistem,
+membangun tools sederhana namun fungsional,
+serta mendokumentasikan hasil analisis secara terstruktur.
+Repositori ini merupakan representasi dari proses belajar saya di bidang keamanan siber, sekaligus komitmen saya untuk terus berkembang secara teknis dan profesional.
+
+---
+
 ###  Koleksi Proyek Keamanan Siber
 Berikut adalah daftar alat dan riset yang saya kembangkan untuk eksplorasi keamanan siber:
 
