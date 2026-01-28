@@ -9,13 +9,14 @@
 
 ### Siapa Aku? 
 
-Saya adalah pelajar dan praktisi pemula di bidang Keamanan Siber dengan minat kuat pada analisis sistem, eksplorasi kerentanan, dan pemahaman cara kerja ancaman digital. Ketertarikan saya terhadap cybersecurity berkembang dari rasa ingin tahu yang tinggi terhadap bagaimana sebuah sistem dapat diserang, dipertahankan, dan diaudit secara teknis.
-Saya terbiasa bekerja di lingkungan Linux, mempelajari jaringan komputer, serta mengembangkan alat bantu keamanan menggunakan Python untuk kebutuhan analisis, otomasi, dan OSINT. Fokus utama saya adalah membangun pemahaman yang kuat dari sisi teknis, bukan sekadar penggunaan alat, tetapi juga cara berpikir seorang security analyst: analitis, sistematis, dan berbasis risiko.
-Melalui berbagai proyek mandiri, saya melatih diri untuk:
-memahami pola serangan dan kelemahan sistem,
-membangun tools sederhana namun fungsional,
-serta mendokumentasikan hasil analisis secara terstruktur.
-Repositori ini merupakan representasi dari proses belajar saya di bidang keamanan siber, sekaligus komitmen saya untuk terus berkembang secara teknis dan profesional.
+Saya adalah pelajar dan praktisi di bidang Keamanan Siber dengan minat kuat pada analisis sistem, eksplorasi kerentanan, dan pemahaman cara kerja ancaman digital. Ketertarikan saya terhadap cybersecurity tumbuh dari rasa ingin tahu yang tinggi tentang bagaimana sebuah sistem dapat diserang, dipertahankan, dan diaudit secara teknis.
+Saya terbiasa bekerja di lingkungan Linux, mempelajari dasar hingga menengah jaringan komputer, serta mengembangkan alat bantu keamanan berbasis Python untuk kebutuhan analisis, otomasi, dan OSINT.
+Fokus utama saya bukan sekadar menggunakan tools, tetapi membangun pola pikir seorang security analyst — analitis, sistematis, dan berbasis risiko.
+#### Fokus Pembelajaran & Pengembangan
+- Memahami pola serangan dan kelemahan sistem
+- Membangun tools sederhana namun fungsional
+- Melakukan analisis teknis dan dokumentasi secara terstruktur
+ Repositori ini merupakan representasi dari perjalanan belajar dan eksplorasi saya di bidang keamanan siber, sekaligus komitmen saya untuk terus berkembang secara teknis dan profesional.
 
 ---
 
