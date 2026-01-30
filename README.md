@@ -166,5 +166,5 @@ Alat scanning port yang lebih komprehensif untuk mendeteksi celah keamanan pada 
 
 
 <p align="center">
-  <i>"Don't just code, make it an art."</i>
+  <i>Don't just code, make it an art.</i>
 </p>
