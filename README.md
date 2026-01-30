@@ -69,6 +69,15 @@ Alat scanning port yang lebih komprehensif untuk mendeteksi celah keamanan pada 
 
 ###  Professional Skill-Set & Weaponry
 
+###  Operating Systems Experience
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-CC0000?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+</p>
+
 ####  Offensive Security & Pentesting
 <p align="left">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
