@@ -168,14 +168,3 @@ Alat scanning port yang lebih komprehensif untuk mendeteksi celah keamanan pada 
 <p align="center">
   <i>"Don't just code, make it an art."</i>
 </p>
-
----
-
-###  Mari Terhubung:
-- **GitHub:** [sepkascurty-cpu](https://github.com/sepkascurty-cpu)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sepkascurty-cpu&color=00599C&style=flat-square&label=PROFILE+VIEWS" alt="views" />
-</p>
-
-
