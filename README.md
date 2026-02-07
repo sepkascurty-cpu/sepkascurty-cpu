@@ -24,6 +24,12 @@ Fokus utama saya bukan sekadar menggunakan tools, tetapi membangun pola pikir se
 ###  Koleksi Proyek Keamanan Siber
 Berikut adalah daftar alat dan riset yang saya kembangkan untuk eksplorasi keamanan siber:
 
+#### 🛡️ [Android Security Suite](https://github.com/sepkascurty-cpu/Eclipse)
+Comprehensive framework for risk management and malware analysis within the Android ecosystem.
+- **Key Features:** Static/Dynamic APK Analysis, Remote Access Monitoring, & Vulnerability Assessment.
+- **Tech Stack:** Python, Docker, Linux Kernel Auditing.
+- **Status:** Active Research & Development
+
 ####  [RMA - Android Security](https://github.com/sepkascurty-cpu/RMA)
 Framework manajemen risiko dan analisis malware untuk ekosistem Android.
 - **Fitur:** APK Analysis, RAT Detector, & Security Monitoring.
