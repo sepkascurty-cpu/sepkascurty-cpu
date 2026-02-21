@@ -85,14 +85,6 @@ Alat scanning port yang lebih komprehensif untuk mendeteksi celah keamanan pada 
   <img src="https://img.shields.io/badge/Windows_Server-CC0000?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 </p>
 
-####  Offensive Security & Pentesting
-<p align="left">
-  <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-008000?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
-
 ####  Security Development (Python)
 <p align="left">
   <img src="https://img.shields.io/badge/Python_3.x-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
