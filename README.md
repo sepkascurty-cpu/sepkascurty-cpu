@@ -25,7 +25,7 @@ Fokus utama saya bukan sekadar menggunakan tools, tetapi membangun pola pikir se
 Berikut adalah daftar alat dan riset yang saya kembangkan untuk eksplorasi keamanan siber:
 
 
-####  [RMA - Android Security](https://github.com/sepkascurty-cpu/RMA)
+####  [Wintock - C2 Framework](https://github.com/sepkascurty-cpu/wintock.git)
 Framework Command & Control (C2) dengan fitur persistensi tingkat lanjut dan manajemen panel berbasis web
 - **Fitur:** Advanced Persistence (Registry/Task Scheduler), Web Control Panel, Keylogger, & Remote Screen Capture.
 - **Status:** Development & Educational Research
