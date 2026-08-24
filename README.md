@@ -1,4 +1,4 @@
-# Halo, Saya sepkascurty-cpu! 👋
+# Halo, Saya sepka! 👋
 
 ### Cloud Engineer & Cloud Security Engineer | DevSecOps Enthusiast
 
