@@ -1,6 +1,6 @@
 # Halo, Saya sepka! 👋
 
-### Cloud Engineer & Cloud Security Engineer | DevSecOps Enthusiast
+### Cloud Engineer & Cloud Security  Specialist | DevSecOps Enthusiast
 
 Saya adalah seorang praktisi di bidang **Cloud Engineering** dan **Cloud Security** dengan fokus pada perancangan arsitektur cloud yang aman, andal (*scalable*), serta efisien biaya (khususnya di ekosistem **AWS**). 
 
