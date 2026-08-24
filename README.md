@@ -116,6 +116,12 @@ I'm using GitHub to document my learning journey, cloud labs, infrastructure pro
   <a href="https://github.com/arlec">
     <img src="https://img.shields.io/badge/GitHub-2e3440?style=for-the-badge&logo=github&logoColor=fff" />
   </a>
+  <a href="https://www.linkedin.com/in/sepka-rahmadhani-56236140b">
+    <img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" />
+  </a>
+  <a href="https://www.instagram.com/arleceo">
+    <img src="https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff" />
+  </a>
 </div>
 
 <br>
