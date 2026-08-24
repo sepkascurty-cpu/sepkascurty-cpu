@@ -65,13 +65,14 @@ Currently exploring and practicing:
 ## Technologies & Tools
 
 <div align="center" style="display: inline_block"><br>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+  <img width="45" src="https://skillicons.dev/icons?i=aws" />
+  <img width="45" src="https://skillicons.dev/icons?i=linux" />
+  <img width="45" src="https://skillicons.dev/icons?i=git" />
+  <img width="45" src="https://skillicons.dev/icons?i=github" />
+  <img width="45" src="https://skillicons.dev/icons?i=postman" />
+  <img width="45" src="https://skillicons.dev/icons?i=docker" />
+  <img width="45" src="https://skillicons.dev/icons?i=python" />
+  <img width="45" src="https://skillicons.dev/icons?i=terraform" />
 </div>
 
 <br>
